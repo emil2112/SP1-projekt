@@ -1,2 +1,3 @@
-# SP1-projekt
-Til aflevering af SP1 projekt
+Emil Kriegel
+
+cph-ek218@cphbusiness.dk
